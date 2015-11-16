@@ -1,6 +1,6 @@
 {
   "name": "clone-canvas",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Clone a canvas by drawing it into a new one",
   "main": "index.js",
   "keywords": [
