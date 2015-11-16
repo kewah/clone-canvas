@@ -1,0 +1,26 @@
+{
+  "name": "clone-canvas",
+  "version": "0.0.0",
+  "description": "Clone a canvas by drawing it into a new one",
+  "main": "index.js",
+  "keywords": [
+    "canvas",
+    "clone"
+  ],
+  "license": "MIT",
+  "author": "Antoine Lehurt <code@kewah.com> (http://kewah.com/)",
+  "homepage": "https://github.com/kewah/clone-canvas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kewah/clone-canvas"
+  },
+  "bugs": {
+    "url": "https://github.com/kewah/clone-canvas/issues"
+  },
+  "scripts": {
+    "start": "budo demo.js --open"
+  },
+  "devDependencies": {
+    "budo": "6.0.4"
+  }
+}
